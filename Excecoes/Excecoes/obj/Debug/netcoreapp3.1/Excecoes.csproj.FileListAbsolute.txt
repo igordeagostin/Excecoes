@@ -1,0 +1,12 @@
+C:\Users\Igor\Documents\Visual Studio 2019\Projects\Excecoes\Excecoes\bin\Debug\netcoreapp3.1\Excecoes.exe
+C:\Users\Igor\Documents\Visual Studio 2019\Projects\Excecoes\Excecoes\bin\Debug\netcoreapp3.1\Excecoes.deps.json
+C:\Users\Igor\Documents\Visual Studio 2019\Projects\Excecoes\Excecoes\bin\Debug\netcoreapp3.1\Excecoes.runtimeconfig.json
+C:\Users\Igor\Documents\Visual Studio 2019\Projects\Excecoes\Excecoes\bin\Debug\netcoreapp3.1\Excecoes.runtimeconfig.dev.json
+C:\Users\Igor\Documents\Visual Studio 2019\Projects\Excecoes\Excecoes\bin\Debug\netcoreapp3.1\Excecoes.dll
+C:\Users\Igor\Documents\Visual Studio 2019\Projects\Excecoes\Excecoes\bin\Debug\netcoreapp3.1\Excecoes.pdb
+C:\Users\Igor\Documents\Visual Studio 2019\Projects\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.csprojAssemblyReference.cache
+C:\Users\Igor\Documents\Visual Studio 2019\Projects\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.AssemblyInfoInputs.cache
+C:\Users\Igor\Documents\Visual Studio 2019\Projects\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.AssemblyInfo.cs
+C:\Users\Igor\Documents\Visual Studio 2019\Projects\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.dll
+C:\Users\Igor\Documents\Visual Studio 2019\Projects\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.pdb
+C:\Users\Igor\Documents\Visual Studio 2019\Projects\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.genruntimeconfig.cache
